@@ -1,0 +1,7 @@
+logging
+os
+coloredlogs
+pyyaml
+pandas
+python-kafka 
+msgpack
