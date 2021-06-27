@@ -2,8 +2,8 @@
 Code for Investigation of kafka throughput 
 
 # Investigation of kafka throughput using Twitter data
-To set up kafka environment, open the terminal in root folder and type docker-compose up.
-This command wil spin up kafka environment, containing zookeeper and broker services. 
-Topic "raw_message" will be generated wil setting up docker environment.
+To set up Kafka environment, open the terminal in the root folder and type docker-compose up. 
+This command will spin up Kafka environment, containing zookeeper and broker services.
+Topic "raw_message" will be generated will setting up the docker environment.
 
-To cretate producer or publisher, kafka_publisher or kafka_reader modules should be used respectivelly.
+To create producer or publisher, kafka_publisher or kafka_reader modules should be used respectively.
